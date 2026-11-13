@@ -6,6 +6,6 @@ ENGR-498-1: ADVANCED DESIGN WITH MICROCONTROLLERS
 Group "Elijah's II"
 - Elijah Chua, ragdollphysix@gmail.com
 - Joshua Howard
-- Gavin Funk
+- Gavin Funk, gfunk@sfsu.edu
 
-# Respiration Monitor with Irregular Breathing Alert
+# Contactless Respiration Monitor with Irregular Breathing Alert
