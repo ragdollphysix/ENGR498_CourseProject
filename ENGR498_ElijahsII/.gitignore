@@ -1,0 +1,20 @@
+# Build output
+Debug/
+Release/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+*.a
+*.su
+
+# IDE local settings
+.settings/
+*.launch
+*.jlink
+
+# CubeMX backups
+*.bak
+*.log   
